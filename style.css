@@ -1,0 +1,78 @@
+#waring{
+    font-size: 100%;
+    color: red;
+    margin-left: 5%;
+ }
+img{
+ display: inline-block;
+ width:400px;
+ height: 400px;
+}
+body{
+background-color: black;
+background-position:center;
+background-repeat: no-repeat;
+}
+@media screen and (max-width: 600px){
+    body{
+        background-color: red;
+    }
+}
+#ba3{
+ text-align: center;
+}
+#feel{
+ color: white;
+}
+#secret{
+ text-align: center;
+}
+input {
+ font: inherit;
+ padding: 0.4em 1em;
+}
+#form1{
+ text-align: center;
+ color: white;
+ padding: 1%;
+}
+#name{
+    width: 300px;
+    border-radius: 0%;
+    
+}
+#wabna{
+    border-radius: 0%;
+    width: 700px;
+}
+#btn{
+    width: 300px;
+    border-radius: 0%;
+}
+#bitch{
+    color: red;
+    text-align: center;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
